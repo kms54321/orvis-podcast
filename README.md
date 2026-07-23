@@ -1,5 +1,5 @@
 Orvis Podcast Archive Feeds:
-Current official podcast only shows most recent 200 episodes. This gives access to all of the older episodes, nothing more.
+Current official podcast only shows most recent 200 episodes. This gives a podcast play access to all of the older episodes, nothing more. No code really, just content, and none of the content is owned by me.
 
 Apr 2008 – Dec 2021 --> https://kms54321.github.io/orvis-podcast/orvis_podcast_feed_pre2022.xml
 
